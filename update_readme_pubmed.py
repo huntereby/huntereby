@@ -1,4 +1,7 @@
 from Bio import Entrez
+import os
+import certifi
+os.environ['SSL_CERT_FILE'] = certifi.where()
 
 # Configure email for NCBI API
 Entrez.email = "youremail@example.com"  # Replace with your email
