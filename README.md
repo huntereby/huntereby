@@ -23,12 +23,15 @@
 
 ## Google Scholar Stats
 
-[![H-index](https://img.shields.io/badge/h--index-20?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/)
+[![Google Scholar Citations](https://img.shields.io/badge/Google_Scholar-{{CITATION_COUNT}}_citations-blue)](https://scholar.google.com/citations?user=rFZAeeEAAAAJ)
+[![H-index](https://img.shields.io/badge/h--index-{{H_INDEX}}?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=rFZAeeEAAAAJ)
 
 ### Recent Publications
 - Example Publication 1
 - Example Publication 2
 - Example Publication 3
+
+*Run `python update_scholar_stats.py` to refresh these values automatically.*
 
 
 <!--
