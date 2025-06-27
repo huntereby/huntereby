@@ -12,7 +12,8 @@ I am currently part of the Cognitive Disorders Research Lab at UToledo, where I 
 
 ## GitHub Stats 📝 Recent Publications
 ![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntereby&show_icons=true)
-<img src="https://github-profile-trophy.vercel.app/?username=huntereby&theme=onestar&column=3&no-frame=true" />
+<img src="https://streak-stats.demolab.com?user=huntereby&theme=default&hide_border=false" alt="GitHub Streak" />
+
 
     
 
