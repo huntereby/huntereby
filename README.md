@@ -1,6 +1,6 @@
 ![Banner](./banner.svg)
 
-## Hi there 👋
+
 
 ## GitHub Stats
 
