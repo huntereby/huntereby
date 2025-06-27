@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R icon" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio icon" height="40"/>
-  <img src="./download.jpg" alt="TrinetX Logo" height="40"/>
 </p>
 
 ## GitHub Stats
