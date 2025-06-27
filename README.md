@@ -9,7 +9,6 @@
 ## GitHub Stats
 
 ![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntereby&show_icons=true)
-**Google Scholar:** Citations: {{CITATION_COUNT}} | H-index: {{H_INDEX}}
 
 ## 📝 Recent Publications
 ![Update PubMed](https://github.com/huntereby/huntereby/actions/workflows/update_pubmed.yml/badge.svg)
