@@ -10,9 +10,10 @@ I am currently part of the Cognitive Disorders Research Lab at UToledo, where I 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio icon" height="40"/>
 </p>
 
-## GitHub Stats
+## GitHub Stats 📝 Recent Publications
 
 ![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntereby&show_icons=true)
+![Update PubMed](https://github.com/huntereby/huntereby/actions/workflows/update_pubmed.yml/badge.svg)
 
 ## 📝 Recent Publications
 ![Update PubMed](https://github.com/huntereby/huntereby/actions/workflows/update_pubmed.yml/badge.svg)
