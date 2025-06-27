@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Update Google Scholar citation count in README.md."""
+"""Update Google Scholar citation count and h-index in README.md."""
 
 from __future__ import annotations
 
@@ -12,27 +12,34 @@ USER_ID = "rFZAeeEAAAAJ"
 README_PATH = Path(__file__).resolve().parent / "README.md"
 
 
-def fetch_citation_count(user_id: str) -> int:
-    """Return the total citation count for the given user."""
+def fetch_stats(user_id: str) -> tuple[int, int]:
+    """Return the citation count and h-index for the given user."""
     author = scholarly.search_author_id(user_id)
     author = scholarly.fill(author, sections=["indices"])
-    return author.get("citedby", 0)
+    citations = author.get("citedby", 0)
+    h_index = author.get("hindex", 0)
+    return citations, h_index
 
 
-def update_readme(citations: int) -> None:
-    """Replace citation placeholder in README with the provided value."""
+def update_readme(citations: int, h_index: int) -> None:
+    """Replace citation and h-index placeholders in README with the provided values."""
     text = README_PATH.read_text()
     text = re.sub(
-        r"Google_Scholar-(?:\d+|\{\{CITATION_COUNT\}\})_citations",
-        f"Google_Scholar-{citations}_citations",
+        r"Citations: (?:\d+|\{\{CITATION_COUNT\}\})",
+        f"Citations: {citations}",
+        text,
+    )
+    text = re.sub(
+        r"H-index: (?:\d+|\{\{H_INDEX\}\})",
+        f"H-index: {h_index}",
         text,
     )
     README_PATH.write_text(text)
 
 
 def main() -> None:
-    citations = fetch_citation_count(USER_ID)
-    update_readme(citations)
+    citations, h_index = fetch_stats(USER_ID)
+    update_readme(citations, h_index)
 
 
 if __name__ == "__main__":

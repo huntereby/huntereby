@@ -3,11 +3,13 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R icon" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio icon" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/trinetx.svg" alt="TriNetX logo" height="40"/>
 </p>
 
 ## GitHub Stats
 
 ![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntereby&show_icons=true)
+**Google Scholar:** Citations: {{CITATION_COUNT}} | H-index: {{H_INDEX}}
 
 ## 📝 Recent Publications
 ![Update PubMed](https://github.com/huntereby/huntereby/actions/workflows/update_pubmed.yml/badge.svg)
