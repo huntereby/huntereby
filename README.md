@@ -9,6 +9,11 @@
 
 ![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntereby&show_icons=true)
 
+## 📝 Recent Publications
+
+<!--PUBMED_START-->
+- Placeholder until script runs
+<!--PUBMED_END-->
 
 
 
