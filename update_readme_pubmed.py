@@ -11,6 +11,7 @@ search_term = "Eby H[Author]"
 handle = Entrez.esearch(db="pubmed", term=search_term, sort="pub date", retmax=5)
 record = Entrez.read(handle)
 pmids = record["IdList"]
+print("🔍 Found PMIDs:", pmids)
 
 # Fetch publication metadata
 handle = Entrez.efetch(db="pubmed", id=",".join(pmids), rettype="medline", retmode="text")
