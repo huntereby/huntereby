@@ -5,7 +5,7 @@ I'm an MD/PhD candidate at the University of Toledo specializing in bioinformati
 
 I am currently part of the Cognitive Disorders Research Lab at UToledo, where I focus on integrating computational tools to better understand neurological outcomes and healthcare disparities.
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R icon" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio icon" height="40"/>
 </p>
