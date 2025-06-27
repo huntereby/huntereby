@@ -22,8 +22,8 @@ jobs:
       - name: Run PubMed update script
         run: python update_readme_pubmed.py
 
-      - name: Update Google Scholar stats
-        run: python update_scholar_stats.py
+      - #name: Update Google Scholar stats
+        #run: python update_scholar_stats.py
 
       - name: Commit and push changes
         run: |
