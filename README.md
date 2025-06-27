@@ -1,11 +1,10 @@
 from scholarly import scholarly
 
-# Your Google Scholar ID
-user_id = "rFZAeeEAAAAJ"
+### Links
+- [Google Scholar Profile](https://scholar.google.com/citations?user=rFZAeeEAAAAJ)
+- [ORCID 0000-0002-9029-9768](https://orcid.org/0000-0002-9029-9768)
 
-# Fetch author data
-author = scholarly.search_author_id(user_id)
-author = scholarly.fill(author, sections=["indices"])
+*Run `python update_scholar_stats.py` to refresh citation counts automatically.*
 
 citations = author["citedby"]
 h_index = author["hindex"]
