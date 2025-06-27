@@ -1,25 +1,14 @@
-from scholarly import scholarly
+![Banner](./banner.svg)
 
-### Links
-- [Google Scholar Profile](https://scholar.google.com/citations?user=rFZAeeEAAAAJ)
-- [ORCID 0000-0002-9029-9768](https://orcid.org/0000-0002-9029-9768)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R icon" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio icon" height="40"/>
+</p>
 
-*Run `python update_scholar_stats.py` to refresh citation counts automatically.*
+## GitHub Stats
 
-citations = author["citedby"]
-h_index = author["hindex"]
+![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntereby&show_icons=true)
 
-# Read your README
-with open("README.md", "r") as f:
-    content = f.read()
-
-# Replace placeholders
-content = content.replace("{{CITATION_COUNT}}", str(citations))
-content = content.replace("{{H_INDEX}}", str(h_index))
-
-# Write back to README
-with open("README.md", "w") as f:
-    f.write(content)
 
 
 
