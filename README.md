@@ -12,7 +12,11 @@
 ## 📝 Recent Publications
 
 <!--PUBMED_START-->
-- Placeholder until script runs
+- [Multi-Omic Analysis of Glutamate Excitotoxicity in Primary Neuronal Cultures.](https://pubmed.ncbi.nlm.nih.gov/40476344/)
+- [Functional kinome profiling reveals brain protein kinase signaling pathways and gene networks altered by acute voluntary exercise in rats.](https://pubmed.ncbi.nlm.nih.gov/40233052/)
+- [Neuronal alterations in AKT isotype expression in schizophrenia.](https://pubmed.ncbi.nlm.nih.gov/39424930/)
+- [Transcriptomic Analysis of Metastatic Uveal Melanoma and Differences in Male and Female Patients.](https://pubmed.ncbi.nlm.nih.gov/38944422/)
+- [Neuronal alterations in AKT isotype expression in schizophrenia.](https://pubmed.ncbi.nlm.nih.gov/38559131/)
 <!--PUBMED_END-->
 
 
