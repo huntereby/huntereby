@@ -21,6 +21,16 @@
   </tr>
 </table>
 
+## Google Scholar Stats
+
+[![H-index](https://img.shields.io/badge/h--index-20?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/)
+
+### Recent Publications
+- Example Publication 1
+- Example Publication 2
+- Example Publication 3
+
+
 <!--
 **huntereby/huntereby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
