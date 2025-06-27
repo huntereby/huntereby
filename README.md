@@ -11,14 +11,10 @@ I am currently part of the Cognitive Disorders Research Lab at UToledo, where I 
 </p>
 
 ## GitHub Stats 📝 Recent Publications
-
-
-      <img src="https://github-readme-stats.vercel.app/api?username=huntereby&show_icons=true" alt="Hunter's GitHub stats"/>
+![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntereby&show_icons=true)
     
 
 ## 📝 Recent Publications
-![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntereby&show_icons=true)
-
 <!--PUBMED_START-->
 - [Multi-Omic Analysis of Glutamate Excitotoxicity in Primary Neuronal Cultures.](https://pubmed.ncbi.nlm.nih.gov/40476344/)
 - [Functional kinome profiling reveals brain protein kinase signaling pathways and gene networks altered by acute voluntary exercise in rats.](https://pubmed.ncbi.nlm.nih.gov/40233052/)
