@@ -5,6 +5,7 @@
 ## GitHub Stats
 
 ![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntereby&show_icons=true)
+[![Google Scholar Citations](https://img.shields.io/badge/Google_Scholar-←YOUR_CITATION_COUNT→_citations-blue)](https://scholar.google.com/citations?user=rFZAeeEAAAAJ)
 
 <!--
 **huntereby/huntereby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
