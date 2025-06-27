@@ -11,8 +11,15 @@ I am currently part of the Cognitive Disorders Research Lab at UToledo, where I 
 </p>
 
 ## GitHub Stats 📝 Recent Publications
+<h2>📊 GitHub Stats &nbsp;&nbsp;&nbsp;&nbsp; 📝 Recent Publications</h2>
 
-![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntereby&show_icons=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=huntereby&show_icons=true" alt="Hunter's GitHub stats"/>
+    </td>
+    <td>
+
 <!--PUBMED_START-->
 <ul>
   <li><a href="https://pubmed.ncbi.nlm.nih.gov/40476344/">Multi-Omic Analysis of Glutamate Excitotoxicity in Primary Neuronal Cultures</a></li>
@@ -22,6 +29,10 @@ I am currently part of the Cognitive Disorders Research Lab at UToledo, where I 
   <li><a href="https://pubmed.ncbi.nlm.nih.gov/38559131/">Neuronal alterations in AKT isotype expression in schizophrenia</a></li>
 </ul>
 <!--PUBMED_END-->
+
+    </td>
+  </tr>
+</table>
 
 ## 📝 Recent Publications
 ![Update PubMed](https://github.com/huntereby/huntereby/actions/workflows/update_pubmed.yml/badge.svg)
