@@ -14,11 +14,13 @@ I am currently part of the Cognitive Disorders Research Lab at UToledo, where I 
 
 ![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntereby&show_icons=true)
 <!--PUBMED_START-->
-- [Multi-Omic Analysis of Glutamate Excitotoxicity in Primary Neuronal Cultures.](https://pubmed.ncbi.nlm.nih.gov/40476344/)
-- [Functional kinome profiling reveals brain protein kinase signaling pathways and gene networks altered by acute voluntary exercise in rats.](https://pubmed.ncbi.nlm.nih.gov/40233052/)
-- [Neuronal alterations in AKT isotype expression in schizophrenia.](https://pubmed.ncbi.nlm.nih.gov/39424930/)
-- [Transcriptomic Analysis of Metastatic Uveal Melanoma and Differences in Male and Female Patients.](https://pubmed.ncbi.nlm.nih.gov/38944422/)
-- [Neuronal alterations in AKT isotype expression in schizophrenia.](https://pubmed.ncbi.nlm.nih.gov/38559131/)
+<ul>
+  <li><a href="https://pubmed.ncbi.nlm.nih.gov/40476344/">Multi-Omic Analysis of Glutamate Excitotoxicity in Primary Neuronal Cultures</a></li>
+  <li><a href="https://pubmed.ncbi.nlm.nih.gov/40233052/">Functional kinome profiling reveals brain protein kinase signaling pathways and gene networks altered by acute voluntary exercise in rats</a></li>
+  <li><a href="https://pubmed.ncbi.nlm.nih.gov/39424930/">Neuronal alterations in AKT isotype expression in schizophrenia</a></li>
+  <li><a href="https://pubmed.ncbi.nlm.nih.gov/38944422/">Transcriptomic Analysis of Metastatic Uveal Melanoma and Differences in Male and Female Patients</a></li>
+  <li><a href="https://pubmed.ncbi.nlm.nih.gov/38559131/">Neuronal alterations in AKT isotype expression in schizophrenia</a></li>
+</ul>
 <!--PUBMED_END-->
 
 ## 📝 Recent Publications
