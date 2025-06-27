@@ -20,7 +20,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run update script
-        run: python update_pubmed.py
+        run: python update_readme_pubmed.py
 
       - name: Commit and push changes
         run: |
