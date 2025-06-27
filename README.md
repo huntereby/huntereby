@@ -1,4 +1,9 @@
 ![Banner](./GitHubLogo.PNG)
+## 👨‍⚕️ About Me
+
+I'm an MD/PhD candidate at the University of Toledo specializing in bioinformatics, clinical epidemiology, and translational research in cognitive and transplant-related disorders. I work with large-scale cohort data platforms like TriNetX and MIMIC, using R and Python to drive discovery at the interface of medicine and data science.
+
+I am currently part of the Cognitive Disorders Research Lab at UToledo, where I focus on integrating computational tools to better understand neurological outcomes and healthcare disparities.
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R icon" height="40"/>
