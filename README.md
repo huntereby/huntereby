@@ -11,31 +11,13 @@ I am currently part of the Cognitive Disorders Research Lab at UToledo, where I 
 </p>
 
 ## GitHub Stats 📝 Recent Publications
-<h2>📊 GitHub Stats &nbsp;&nbsp;&nbsp;&nbsp; 📝 Recent Publications</h2>
 
-<table>
-  <tr>
-    <td>
+
       <img src="https://github-readme-stats.vercel.app/api?username=huntereby&show_icons=true" alt="Hunter's GitHub stats"/>
-    </td>
-    <td>
-
-<!--PUBMED_START-->
-<ul>
-  <li><a href="https://pubmed.ncbi.nlm.nih.gov/40476344/">Multi-Omic Analysis of Glutamate Excitotoxicity in Primary Neuronal Cultures</a></li>
-  <li><a href="https://pubmed.ncbi.nlm.nih.gov/40233052/">Functional kinome profiling reveals brain protein kinase signaling pathways and gene networks altered by acute voluntary exercise in rats</a></li>
-  <li><a href="https://pubmed.ncbi.nlm.nih.gov/39424930/">Neuronal alterations in AKT isotype expression in schizophrenia</a></li>
-  <li><a href="https://pubmed.ncbi.nlm.nih.gov/38944422/">Transcriptomic Analysis of Metastatic Uveal Melanoma and Differences in Male and Female Patients</a></li>
-  <li><a href="https://pubmed.ncbi.nlm.nih.gov/38559131/">Neuronal alterations in AKT isotype expression in schizophrenia</a></li>
-</ul>
-<!--PUBMED_END-->
-
-    </td>
-  </tr>
-</table>
+    
 
 ## 📝 Recent Publications
-![Update PubMed](https://github.com/huntereby/huntereby/actions/workflows/update_pubmed.yml/badge.svg)
+![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntereby&show_icons=true)
 
 <!--PUBMED_START-->
 - [Multi-Omic Analysis of Glutamate Excitotoxicity in Primary Neuronal Cultures.](https://pubmed.ncbi.nlm.nih.gov/40476344/)
