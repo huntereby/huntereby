@@ -1,4 +1,4 @@
-![Banner](./banner.svg)
+![Banner](./GitHubLogo.PNG)
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R icon" height="40"/>
