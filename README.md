@@ -1,4 +1,4 @@
-![Banner](./banner.svg)
+![Banner](./image_2025-06-27_145920138.png)
 
 
 
