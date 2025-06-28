@@ -5,22 +5,22 @@ I'm an MD/PhD candidate at the University of Toledo specializing in bioinformati
 
 I am currently part of the Cognitive Disorders Research Lab at UToledo, where I focus on integrating computational tools to better understand neurological outcomes and healthcare disparities.
 
-<picture>
-  <a href="#Hunter Eby-title">
-  <img src="https://raw.githubusercontent.com/huntereby/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
-</picture>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R icon" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio icon" height="40"/>
+</p>
 
 
 
 
-    
+
 
 ## 📝 Recent Publications
-
-  <a href="#Hunter Eby-title">
-  <img src="https://raw.githubusercontent.com/huntereby/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=huntereby&theme=dark&show_icons=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=huntereby&theme=default&show_icons=true">
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=huntereby&show_icons=true" alt="Hunter's GitHub Stats" />
+</picture>
 
 
 <!--PUBMED_START-->
