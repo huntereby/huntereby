@@ -1,6 +1,8 @@
 ![Banner](./GitHubLogo.PNG)
 ## 👨‍⚕️ About Me
-
+<p align="right">
+  <img align="right" width="18%"src="./dummy.png"/>
+</p>
 I'm an MD/PhD candidate at the University of Toledo specializing in bioinformatics, clinical epidemiology, and translational research. While I work in the Cognitive Disorders Research Lab un Dr. Robert McCullumsmith, my main thesis focus in on developing a biomarker to predict renal transplant rejection prior to transplantatin. I work with large-scale cohort data platforms like TriNetX, using R  to drive discovery at the interface of medicine and data science.
 
 I am currently part of the Cognitive Disorders Research Lab at UToledo, where I focus on integrating computational tools to better understand neurological outcomes and healthcare disparities.
