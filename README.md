@@ -3,9 +3,11 @@
 <p align="right">
   <img align="right" width="18%"src="./dummy.png"/>
 </p>
-I'm an MD/PhD candidate at the University of Toledo specializing in bioinformatics, clinical epidemiology, and translational research. While I work in the Cognitive Disorders Research Lab under Dr. Robert McCullumsmith, my main thesis focus in on developing a biomarker to predict renal transplant rejection prior to transplantation. I work with large-scale cohort data platforms like TriNetX, using R to drive discovery at the interface of medicine and data science.
+I'm an MD/PhD candidate at the University of Toledo studying bioinformatics, clinical epidemiology, and translational research. While I work in the Cognitive Disorders Research Lab under Dr. Robert McCullumsmith, my main thesis focuses on developing a biomarker to predict renal transplant rejection prior to transplantation. 
 
-I am currently part of the Cognitive Disorders Research Lab at UToledo, where I focus on integrating computational tools to better understand neurological outcomes and healthcare disparities.
+In addition, I work with large-scale data platforms such as TriNetX and iLINCS to further enhance my research. 
+
+I am currently the Director of operations of the Kinomic Core Facility and am always interested in improving our operations to improve scientific inovation.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R icon" height="40"/>
