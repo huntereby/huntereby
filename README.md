@@ -19,7 +19,7 @@ I am currently part of the Cognitive Disorders Research Lab at UToledo, where I 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=huntereby&theme=dark&show_icons=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=huntereby&theme=default&show_icons=true">
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=huntereby&show_icons=true" alt="Hunter's GitHub Stats" />
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=huntereby&show_icons=true" alt="Hunter's GitHub Stats" />
 </picture>
 
 
