@@ -8,7 +8,7 @@ I'm an MD/PhD candidate at the University of Toledo studying bioinformatics, cli
 In addition, I work with large-scale data platforms such as TriNetX and iLINCS to further enhance my research. 
 
 I am currently the Director of operations of the Kinomic Core Facility and am always interested in improving our operations to improve scientific inovation.
-
+## Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R icon" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio icon" height="40"/>
