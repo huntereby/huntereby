@@ -10,8 +10,8 @@ In addition, I work with large-scale data platforms such as TriNetX and iLINCS t
 I am currently the Director of operations of the Kinomic Core Facility and am always interested in improving our operations to improve scientific inovation.
 ## Operating Systems
   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />                 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" alt="Windows" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="Mac" height="40" />                 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="40"/>
 
 ## Tools
