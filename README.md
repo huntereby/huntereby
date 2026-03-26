@@ -1,15 +1,19 @@
 ![Banner](./GitHubLogo.PNG)
+
 ## 👨‍⚕️ About Me
-<p align="right">
-  <img align="right" width="18%"src="./dummy.png"/>
+
+<p align="center">
+  <img width="18%" src="./dummy.png"/>
 </p>
-I'm an MD/PhD candidate at the University of Toledo studying bioinformatics, clinical epidemiology, and translational research. While I work in the Cognitive Disorders Research Lab under Dr. Robert McCullumsmith, my main thesis focuses on developing a biomarker to predict renal transplant rejection prior to transplantation. 
 
-In addition, I work with large-scale data platforms such as TriNetX and iLINCS to further enhance my research. 
+I'm an MD/PhD candidate at the University of Toledo studying bioinformatics, clinical epidemiology, and translational research. While I work in the Cognitive Disorders Research Lab under Dr. Robert McCullumsmith, my main thesis focuses on developing a biomarker to predict renal transplant rejection prior to transplantation.
 
-I am currently the Director of operations of the Kinomic Core Facility and am always interested in improving our operations to improve scientific inovation.
+In addition, I work with large-scale data platforms such as TriNetX and iLINCS to further enhance my research.
+
+I am currently the Director of Operations of the Kinomic Core Facility and am always interested in improving our operations to improve scientific innovation.
+
 ## Operating Systems
-## Operating Systems
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" alt="Windows" height="40" style="margin-right:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="Mac" height="40" style="margin-right:10px;">
@@ -17,15 +21,11 @@ I am currently the Director of operations of the Kinomic Core Facility and am al
 </p>
 
 ## Tools
+
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R icon" height="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio icon" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R icon" height="40" style="margin-right:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio icon" height="40">
 </p>
-
-
-
-
-
 
 ## 📝 Recent Publications
 
