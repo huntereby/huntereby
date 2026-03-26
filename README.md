@@ -25,7 +25,7 @@ I am currently the Director of Operations of the Kinomic Core Facility and am al
 <div align="Left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
-  <img src= "./TriNetX-Logo-Vertical-BK.png" title="Linux" alt="Linux" width="50" height="50"/>
+  <img src= "./TriNetX-Logo-Vertical-BK.png" title="Linux" alt="Linux" width="70" height="70"/>
 </div>
 
 ## 📝 Recent Publications
